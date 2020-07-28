@@ -1,0 +1,77 @@
+﻿1
+00:00:01,000 --> 00:00:04,400
+This is the demonstration of Game Controller(VR compatible)
+
+2
+00:00:04,424 --> 00:00:08,824
+I am using the controller with my both hand.
+
+3
+00:00:08,848 --> 00:00:13,648
+The controller i made is connected with a Micro-controller(Arduino UNO).
+
+4
+00:00:13,672 --> 00:00:16,872
+The uno is connected with the buttons and sensors.
+
+5
+00:00:16,896 --> 00:00:20,896
+Uno sends the serial data with the help of bluetooth module.
+
+6
+00:00:20,920 --> 00:00:23,720
+There is another Micro Controller connected with my PC.
+
+7
+00:00:23,744 --> 00:00:25,744
+That is Arduino-Pro -Micro.
+
+8
+00:00:25,768 --> 00:00:30,868
+The pro micro recievs the serial data(using another bluetooth module) sent from the  controller.
+
+9
+00:00:30,892 --> 00:00:35,992
+The buttons of the controller works like a keyboard and a Gyro sensor works as mouse.
+
+10
+00:00:36,016 --> 00:00:39,016
+The Gyro sensor is placed infront of the Controller.
+
+11
+00:00:39,040 --> 00:00:42,040
+In that way the player can Aim at the perfect positon.
+
+12
+00:00:42,064 --> 00:00:45,064
+The VR box is used for sharing The screen of PC.
+
+13
+00:00:45,088 --> 00:00:48,288
+In the video I am using a cable to Power-Up the controller.
+
+14
+00:00:48,312 --> 00:00:51,712
+But it can be Replaced with a Power-Bank or 5v battery.
+
+15
+00:00:51,736 --> 00:00:55,836
+The device is Totally wireless, so that a player can easily move around and play the game.
+
+16
+00:00:55,860 --> 00:00:58,660
+It will feel like player is inside the game.
+
+17
+00:00:58,684 --> 00:01:02,384
+The device is very cheap and very simple  comparing with other device on market.
+
+18
+00:01:02,408 --> 00:01:04,408
+Thanks for watching the video.
+
+19
+00:01:04,432 --> 00:01:08,032
+Fazley Rabbi Biswas
+011-151-096
+
